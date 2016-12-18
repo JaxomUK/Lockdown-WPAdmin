@@ -114,4 +114,4 @@ A very late update, sorry! Worked to fix many issues with the admin bar and the 
 * Localizing all the strings.
 
 == 2.4 ==
-* Fixing Issues with the latest WordpRess version
+* Fixing Issues with the latest WordPress version
